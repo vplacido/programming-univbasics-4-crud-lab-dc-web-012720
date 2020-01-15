@@ -17,12 +17,14 @@ end
 def remove_element_from_end_of_array(array)
   if (array.size != 0) 
     array.pop()
+  end
   
 end
 
 def remove_element_from_start_of_array(array)
   if (array.size != 0) 
     array.shift()
+  end
   
 end
 
